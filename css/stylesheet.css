@@ -1,6 +1,7 @@
 body {
-  background: #white;
+  background: black;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: red;
 }
 .wrapper {
   width: 800px;
